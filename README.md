@@ -1,110 +1,68 @@
-# Scrimba-Learn-React-for-free
-Scrimba - Learn React For Free 
-(6 Hours)  
-48 Vidios
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-Course Introduction & Philosophy
+In the project directory, you can run:
 
-What we'll be building
+### `npm start`
 
-Why React?
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-ReactDOM & JSX
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-ReactDOM & JSX Practice
+### `npm test`
 
-Functional Components
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Functional Components Practice
+### `npm run build`
 
-Move Components into Separate Files
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Parent/Child Components
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-Parent/Child Component Practice
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Todo App - Phase 1
+### `npm run eject`
 
-Styling React with CSS Classes
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Some Caveats
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-JSX to JavaScript and Back
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Inline Styles with the Style Property
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Todo App - Phase 2
+## Learn More
 
-Props Part 1 - Understanding the Concept
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Props Part 2 - Reusable Components
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Props in React
+### Code Splitting
 
-Props and Styling Practice
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Mapping Components
+### Analyzing the Bundle Size
 
-Mapping Components Practice
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Todo App - Phase 3
+### Making a Progressive Web App
 
-Class-based Components
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-Class-based Components Practice
+### Advanced Configuration
 
-State
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-State Practice
+### Deployment
 
-State Practice 2
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-Todo App - Phase 4
+### `npm run build` fails to minify
 
-Handling Events in React
-
-Todo App - Phase 5
-
-Changing State
-
-Todo App - Phase 6
-
-Lifecycle Methods Part 1
-
-Lifecycle Methods Part 2
-
-Conditional Rendering
-
-Conditional Rendering Part 2
-
-Conditional rendering Practice
-
-Todo App - Phase 7
-
-Fetching data from an API
-
-Forms Part 1
-
-Formss Part 2
-
-Forms Practice
-
-Container/Component Architecture
-
-Meme Generator Capstone Project
-
-Writing Modern React Apps
-
-Project Ideas for Practicing
-
-Conclusion
-
-
-
-
-
-
-
-SCRIMBA LEARN REACT FOR FREE
-everything about react from scratch!!
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

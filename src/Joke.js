@@ -1,0 +1,22 @@
+import React from "react"
+
+function Joke(props) {
+    return (
+        <div>
+            {/* Here are conditional rendering things in the below statements */}
+            <h3 style={{display: props.question ? "block" : "none"}}>Question: {props.question}</h3>
+
+            <h3 style={{display: !props.question && "none"}}>Question: {props.question}</h3>
+             
+            <h3>Question: {props.question}</h3>
+            <h3>Answer: {props.punchLine}</h3>
+
+
+
+            <h3 style={{color: !props.question && "#888888"}}>Answer: {props.punchLine}</h3>
+            <hr/>
+        </div>
+    )
+}
+
+export default Joke
